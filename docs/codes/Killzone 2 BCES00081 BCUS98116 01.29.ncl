@@ -1,3 +1,8 @@
+Extended FOV
+0
+illusion - vFxMz [FIX]
+0 00EC096C 3F266666
+#
 God Mode
 0
 dron_3
